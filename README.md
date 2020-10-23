@@ -2,5 +2,5 @@
 
 Hey all!
 
-- 🔭 I’m currently working on a Civics app.
+- 🔭 I'm all about React and Symfony. My previous project on https://hum.nu is done. My next project is learning some CMS tools.
 - 🌱 I’m currently learning Java
